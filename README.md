@@ -3,5 +3,5 @@
 
 # How to run the project?
 ```
-python3 main.py
+python3 chatbot.py
 ```
